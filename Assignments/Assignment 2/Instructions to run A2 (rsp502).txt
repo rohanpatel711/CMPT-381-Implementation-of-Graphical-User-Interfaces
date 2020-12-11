@@ -1,0 +1,8 @@
+Name - Rohan Patel
+NSID - rsp502
+Student Number - 11247205
+
+To get the output, Just extract the zip file then,
+
+A2 (rsp502)-> src -> sample -> And run the Main.java file and that should bring it up.
+

@@ -1,0 +1,12 @@
+Name - Rohan Patel
+NSID - rsp502
+Student Number - 11247205
+
+To get the output of the picture frame called slideshow, Just extract the zip file then,
+
+A1(rsp502)-> src -> sample -> And run the Main.java file and that should bring it up.
+
+
+There are two buttons at the bottom of the screen to control the slideshow and manual 
+function and also to pause thhe slideshow if you want to. This is at the very bottom and sometimes get misses as the screen size is 1920*1080.
+
