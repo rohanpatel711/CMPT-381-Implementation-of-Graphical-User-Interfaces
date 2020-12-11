@@ -1,1 +1,1 @@
-# CMPT-381---Implementation-of-Graphical-User-Interfaces
+# CMPT-381-Implementation-of-Graphical-User-Interfaces
